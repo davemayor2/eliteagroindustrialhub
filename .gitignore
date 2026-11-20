@@ -1,0 +1,10 @@
+# Source reference documents & large working assets (kept locally, excluded from deploy repo)
+reference.png
+*.pdf
+AGRO SIGNAGE.png
+Elite Palm Field.jpeg
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
